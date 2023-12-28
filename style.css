@@ -1,35 +1,30 @@
-:root {
-    --brand-color: #3f51b5;
-    }
-    .color_white {
-        color: white;
-    }
-    .background_gray {
-        background-color: grey;
-    }
-    .color_gray {
-        color: gray;
-    }
-    .background_lightseagreen{
-        background-color: lightseagreen;
-    }
-    .border_white {
-        border-color: white;
-    }
-    .background_lightgray {
-        background-color: lightgray;
-    }
-    .color_lightgray {
-        color: lightgray;
-    }
-    .color_blue {
-        color: blue;
-    }
-    section.big {
-        padding: 100px 50px 100px 50px;
-    }
-
-/*Changes*/
-* {
-    font-style: "Roboto";
-}
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 700;
+    src: url('Roboto\Roboto-Bold.ttf');
+  }
+  @font-face {
+    font-family: 'Roboto';
+    font-weight: 900;
+    src: url('Roboto\Roboto-Black.ttf');
+  }
+  @font-face {
+    font-family: 'Roboto';
+    font-weight: 500;
+    src: url('Roboto\Roboto-MediumItalic.ttf');
+  }
+    @font-face {
+    font-family: 'Roboto';
+    font-weight: 500;
+    src: url('Roboto\Roboto-MediumItalic.ttf');
+  }
+  @font-face {
+    font-family: 'Roboto';
+    font-weight: 400;
+    src: url('Roboto\Roboto-Regular.ttf');
+  }
+  @font-face {
+    font-family: 'Roboto';
+    font-weight: 300;
+    src: url('Roboto\Roboto-Light.ttf');
+  }
